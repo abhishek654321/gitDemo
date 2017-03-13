@@ -7,6 +7,7 @@ public class ProgramOne {
 		System.out.println("Let's edit first program second time from eclipse");
 
 System.out.println("Let's edit first program from bash");
+System.out.println("Let's edit first program from new branch");
 
 	}
 
