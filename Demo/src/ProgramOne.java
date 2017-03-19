@@ -1,6 +1,9 @@
+import org.testng.annotations.Test;
 
 public class ProgramOne {
-	public static void main(String[] args) {
+	@Test
+	void display()
+	{
 		System.out.println("Hello Abhishek");
 
 	}
